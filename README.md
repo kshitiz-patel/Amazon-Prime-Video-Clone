@@ -8,4 +8,3 @@ Login system code using:
 - MYSQL
 - PHP
 
-<img src="./netflix.jpeg">
