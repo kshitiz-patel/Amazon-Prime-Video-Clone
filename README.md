@@ -1,6 +1,5 @@
-# Web-Development-Classes-2021
-
-Login system code using:
+Robotics Club: Web Deveploment Classes 2021-22
+Amazon Prime Clone Using:
 
 - HTML
 - CSS
