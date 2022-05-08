@@ -1,4 +1,3 @@
-Robotics Club: Web Deveploment Classes 2021-22
 Amazon Prime Clone Using:
 
 - HTML
